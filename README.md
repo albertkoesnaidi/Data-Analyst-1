@@ -1,6 +1,13 @@
-# Data_Analyst_Movie
+# Data Analyst 1
 
-I'm uploading this as my data analyst portfolio. First I gathered the data from themoviedb.org using API key. 
-The csv file won't be provided here because the data is too big. 
-Shoutout to Alexander Hagmann from Udemy course. From him I learnt a lot. This movie data analyst was inspired from him also. 
+Welcome to my Data Analyst 1 directory.
+
+I'm uploading this as my data analyst portfolio. The data (normaly in csv format) won't added into this directory because the file is too bit (more than 25 MB).
+
+There are two datasets used for this analysis. First was the moviedata and second was baby names in the US.
+
+I gathered the data for the first dataset from themoviedb.org using API key.
+And the second dataset I got from the internet. 
+
+These two Projects were taught by Alexander Hagmann from Udemy. From him I learnt a lot.
 Thank you very much!
